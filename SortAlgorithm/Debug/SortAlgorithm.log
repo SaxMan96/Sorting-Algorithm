@@ -1,0 +1,11 @@
+﻿  SortAlgorithm.cpp
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(101): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(148): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(266): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(274): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(346): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(360): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(368): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(414): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+f:\eiti infa\semestr 5\aal\projekt 17z\sortalgorithm\sortalgorithm\sortalgorithm.cpp(505): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  SortAlgorithm.vcxproj -> F:\EiTI Infa\Semestr 5\AAL\Projekt 17Z\SortAlgorithm\Debug\SortAlgorithm.exe
